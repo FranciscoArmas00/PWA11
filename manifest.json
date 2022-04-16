@@ -1,6 +1,6 @@
 {
-    "short_name": "Seduction MX",
-    "name": "Instalando PWA",
+    "short_name": "Deporte MX",
+    "name": "Prueba 1",
     "start_url": "index.html",
     "background_color": "#131313",
     "theme_color": "#131313",
@@ -8,37 +8,37 @@
     "orientation": "portrait",
     "icons": [
         {
-            "src": "img/icons/icon-72x72.png",
+            "src": "images/icons/instructor 72x 72.png",
             "type": "image/png",
             "sizes": "72x72"
         },
         {
-            "src": "img/icons/icon-96x96.png",
+            "src": "images/icons/instructor 96x 96.png",
             "type": "image/png",
             "sizes": "96x96"
         },
         {
-            "src": "img/icons/icon-128x128.png",
+            "src": "images/icons/instructor 128x 128.png",
             "type": "image/png",
             "sizes": "128x128"
         },
         {
-            "src": "img/icons/icon-144x144.png",
+            "src": "images/icons/instructor 144x 144.png",
             "type": "image/png",
             "sizes": "144x144"
         },
         {
-            "src": "img/icons/icon-192x192.png",
+            "src": "images/icons/instructor 192x 192.png",
             "type": "image/png",
             "sizes": "192x192"
         },
         {
-            "src": "img/icons/icon-384x384.png",
+            "src": "images/icons/instructor 384x 384.png",
             "type": "image/png",
             "sizes": "384x384"
         },
         {
-            "src": "img/icons/icon-512x512.png",
+            "src": "images/icons/instructor 512x 512.png",
             "type": "image/png",
             "sizes": "512x512"
         }
