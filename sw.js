@@ -2,7 +2,7 @@ var appShellFiles = [
 '/PWA11/css/styles.css',
 '/PWA11/css/swiper.css',
 '/PWA11/css/bootstrap.css',
-//'/PWA11/css/fontawesome-all.css',
+'/PWA11/css/fontawesome-all.css',
 '/PWA11/css/magnific-popup.css',
 '/PWA11/index.html',
 '/PWA11/article-details.html',
